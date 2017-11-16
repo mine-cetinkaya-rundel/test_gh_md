@@ -1,6 +1,14 @@
-# Mini HW 11 - Inferring from the GSS, Pt 2
-potato  
-November 14, 2017  
+---
+title: "Mini HW 11 - Inferring from the GSS, Pt 2"
+author: "potat"
+date: "November 14, 2017"
+output: 
+  html_document: 
+    fig_height: 4
+    highlight: pygments
+    keep_md: yes
+    theme: sandstone
+---
 
 
 
@@ -10,21 +18,26 @@ library(tidyverse)
 ```
 
 ```
-## Loading tidyverse: ggplot2
-## Loading tidyverse: tibble
-## Loading tidyverse: tidyr
-## Loading tidyverse: readr
-## Loading tidyverse: purrr
-## Loading tidyverse: dplyr
+## ── Attaching packages ────────────────────────────────────────────────────── tidyverse 1.2.1 ──
 ```
 
 ```
-## Conflicts with tidy packages ----------------------------------------------
+## ✔ tibble  1.3.4     ✔ purrr   0.2.4
+## ✔ tidyr   0.7.2     ✔ dplyr   0.7.4
+## ✔ readr   1.1.1     ✔ forcats 0.2.0
 ```
 
 ```
-## filter(): dplyr, stats
-## lag():    dplyr, stats
+## ── Conflicts ───────────────────────────────────────────────────────── tidyverse_conflicts() ──
+## ✖ lubridate::as.difftime() masks base::as.difftime()
+## ✖ lubridate::date()        masks base::date()
+## ✖ dplyr::filter()          masks stats::filter()
+## ✖ readr::guess_encoding()  masks rvest::guess_encoding()
+## ✖ lubridate::intersect()   masks base::intersect()
+## ✖ dplyr::lag()             masks stats::lag()
+## ✖ purrr::pluck()           masks rvest::pluck()
+## ✖ lubridate::setdiff()     masks base::setdiff()
+## ✖ lubridate::union()       masks base::union()
 ```
 
 
