@@ -1,6 +1,14 @@
-# Mini HW 11 - Inferring from the GSS, Pt 2
-potato  
-November 14, 2017  
+---
+title: "Mini HW 11 - Inferring from the GSS, Pt 2"
+author: "potato"
+date: "November 14, 2017"
+output: 
+  html_document: 
+    fig_height: 4
+    highlight: pygments
+    keep_md: yes
+    theme: sandstone
+---
 
 
 
