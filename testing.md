@@ -1,6 +1,6 @@
-# testing
-Mine Cetinkaya-Rundel  
-11/15/2017  
+# Mini HW 11 - Inferring from the GSS, Pt 2
+potato  
+November 14, 2017  
 
 
 
