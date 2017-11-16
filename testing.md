@@ -1,10 +1,5 @@
----
-title: "My title"
-date: "November 15, 2017"
-output: 
-  html_document: 
-    keep_md: true
----
+# My title
+November 15, 2017  
 
 
 ```r
@@ -12,5 +7,5 @@ packageVersion("rmarkdown")
 ```
 
 ```
-## [1] '1.7'
+## [1] '1.6'
 ```
