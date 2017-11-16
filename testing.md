@@ -1,6 +1,6 @@
 ---
 title: "Mini HW 11 - Inferring from the GSS, Pt 2"
-author: "potato"
+author: "potat"
 date: "November 14, 2017"
 output: 
   html_document: 
