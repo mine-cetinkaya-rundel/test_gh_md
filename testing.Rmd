@@ -4,7 +4,7 @@ author: "Mine Cetinkaya-Rundel"
 date: "11/15/2017"
 output: 
   html_document:
-    keep_md: TRUE
+    keep_md: yes
 ---
 
 ```{r setup, include=FALSE}
