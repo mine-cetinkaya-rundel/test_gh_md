@@ -6,7 +6,7 @@ output:
   html_document: 
     fig_height: 4
     highlight: pygments
-    keep_md: yes
+    keep_md: true
     theme: sandstone
 ---
 
